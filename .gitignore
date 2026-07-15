@@ -1,0 +1,19 @@
+# Immutable local source library (copyrighted PDFs are never committed)
+/sources/papers/
+
+# PDF extraction and rendering intermediates
+/tmp/
+/.cache/
+__pycache__/
+*.pyc
+
+# Obsidian and editor machine state
+.obsidian/workspace*.json
+.obsidian/cache
+.DS_Store
+Thumbs.db
+
+# Agent-local state
+/.workbuddy/
+/.agents/
+
