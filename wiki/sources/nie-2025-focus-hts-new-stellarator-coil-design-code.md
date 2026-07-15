@@ -8,14 +8,14 @@ citekey: "nie-2025-focus-hts-new-stellarator-coil-design-code"
 status: extracted
 tags: ["coil-design", "optimization", "transport", "quasi-symmetry", "engineering"]
 related: ["topics/coil-design"]
-source_file: "../../sources/papers/Nie_2025_Nucl._Fusion_65_086008.pdf"
+source_file: "../../sources/papers/FOCUS-HTS a new stellarator coil design code for three-dimensional high-temperature superconducting magnets.pdf"
 sha256: "8297262aceff0a97f93b07b60e3127961ca1e37db3be77ada0522bb65f35505a"
 pages: 15
 ---
 
 # FOCUS-HTS: a new stellarator coil design code for three-dimensional high-temperature superconducting magnets
 
-> [打开本地 PDF](../../sources/papers/Nie_2025_Nucl._Fusion_65_086008.pdf) · 关联主题：[[topics/coil-design]]
+> [打开本地 PDF](../../sources/papers/FOCUS-HTS a new stellarator coil design code for three-dimensional high-temperature superconducting magnets.pdf) · 关联主题：[[topics/coil-design]]
 
 ## 结构化摘要
 

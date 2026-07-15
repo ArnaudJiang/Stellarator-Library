@@ -1,21 +1,21 @@
 ---
 type: source
-title: "Measurements and correction of the"
-title_en: "Measurements and correction of the"
+title: "Measurements and correction of the 1over1 error field in Wendelstein 7-X"
+title_en: "Measurements and correction of the 1over1 error field in Wendelstein 7-X"
 authors: ["Measurements and correction of the 1/1 error field in Wendelstein 7-X"]
 year: 2019
-citekey: "measurements-2019-measurements-correction"
+citekey: "measurements-2019-measurements-correction-1over1-error-field"
 status: extracted
 tags: ["coil-design", "optimization", "equilibrium", "transport", "stability"]
 related: ["topics/coil-design"]
-source_file: "../../sources/papers/Measurements and correction of the.pdf"
+source_file: "../../sources/papers/Measurements and correction of the 1over1 error field in Wendelstein 7-X.pdf"
 sha256: "8f53697b78ac17d64b8a473700b0c49f9e9208490b85904c8aacd857cf3d8ba7"
 pages: 12
 ---
 
-# Measurements and correction of the
+# Measurements and correction of the 1over1 error field in Wendelstein 7-X
 
-> [打开本地 PDF](../../sources/papers/Measurements and correction of the.pdf) · 关联主题：[[topics/coil-design]]
+> [打开本地 PDF](../../sources/papers/Measurements and correction of the 1over1 error field in Wendelstein 7-X.pdf) · 关联主题：[[topics/coil-design]]
 
 ## 结构化摘要
 
@@ -25,7 +25,7 @@ In this paper, vacuum flux surface mapping is used to measure the 1/1 error fiel
 
 ## 原文结论
 
-- 首页所述研究目标与摘要见 [[measurements-2019-measurements-correction]]，PDF p. 1。
+- 首页所述研究目标与摘要见 [[measurements-2019-measurements-correction-1over1-error-field]]，PDF p. 1。
 - 关键定量结论、公式及图表尚需逐页视觉复核。
 
 ## 方法与数据

@@ -1,27 +1,27 @@
 ---
 type: source
-title: "计算等离子体物理导论"
-title_en: "计算等离子体物理导论"
+title: "先进仿星器中三维线圈的新型物理优化设计方法"
+title_en: "先进仿星器中三维线圈的新型物理优化设计方法"
 authors: ["unknown"]
 year: unknown
 citekey: "unknown-unknown-source"
 status: extracted
-tags: ["stellarator"]
-related: ["concepts/stellarator"]
-source_file: "../../sources/papers/计算等离子体物理导论.pdf"
-sha256: "a17c945e19c9e1e6df67192ee64c879fc4d51d920931af8dab16f4babda20c9e"
-pages: 317
+tags: ["coil-design", "optimization"]
+related: ["topics/coil-design"]
+source_file: "../../sources/papers/先进仿星器中三维线圈的新型物理优化设计方法.pdf"
+sha256: "5ef6d7617d96a6f58a06c963d21c8b701d9eff8858a54faf0fbbc585fcce5f2d"
+pages: 103
 ---
 
-# 计算等离子体物理导论
+# 先进仿星器中三维线圈的新型物理优化设计方法
 
-> [打开本地 PDF](../../sources/papers/计算等离子体物理导论.pdf) · 关联主题：[[concepts/stellarator]]
+> [打开本地 PDF](../../sources/papers/先进仿星器中三维线圈的新型物理优化设计方法.pdf) · 关联主题：[[topics/coil-design]]
 
 ## 结构化摘要
 
 以下内容由 PDF 首页文本自动提取，用于初步检索；尚未替代逐页精读：
 
-文本自动抽取为空，可能是扫描件或受字体编码影响；需渲染页面后人工核验。
+Ｕ ｎ ｉ ｖ ｅ ｒ ｓ ｉ ｔ ｙ  ｏ ｆ Ｓ ｃ ｉ ｅ ｎ ｃ ｅ ａ ｎ ｄ  Ｔ ｅ ｃ ｈ ｎ ｏ ｌ ｏ ｇ ｙ  ｏ ｆ Ｃ ｈ ｉ ｎ ａ 博 士 学 位 论 文 戀 论 文 题 目  先 丫方 星 器 中 三 维 钱／ 圈 的 新 型 物 理 优 化 设 计 方 法 作 者 姓 名  祝 曹 祥  学 科 专 业  ＃ 科 ‘ 学 与 技 术 导 ！ Ｉ 币 女生 名  万 元 煦 研 堯 员  籴 云 涛 研 堯 员 完 成 时 间  二 〇  － 八 年 － 月  博 士 学 位 论 文 戀 先 进 仿 星 器 中 三 维 线 圈 的 新 型 物 理 优 化 设 计 方 法 作 者 姓 名 ： 祝 曹 祥 学 科 专 业 ： 核 科 学 与 技 术 导 师 姓 名 ： 万 元 熙 研 究 员 宋 云 涛 研 究 员 完 成 时 间 ： 二 〇 一 八 年 一 月 二 十 三 日
 
 ## 原文结论
 
@@ -42,7 +42,7 @@ pages: 317
 
 ## 跨文献综合
 
-- 通过 [[concepts/stellarator]] 与同主题来源进行比较；尚未形成的比较不得视为原文结论。
+- 通过 [[topics/coil-design]] 与同主题来源进行比较；尚未形成的比较不得视为原文结论。
 
 ## LLM 推断
 

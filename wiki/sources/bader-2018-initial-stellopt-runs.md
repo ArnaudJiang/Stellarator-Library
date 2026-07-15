@@ -8,14 +8,14 @@ citekey: "bader-2018-initial-stellopt-runs"
 status: extracted
 tags: ["optimization"]
 related: ["topics/optimization"]
-source_file: "../../sources/papers/wistell_180309.pdf"
+source_file: "../../sources/papers/Initial Stellopt Runs.pdf"
 sha256: "3c198f908c209e303a0a969df8240be9088940c05de7a967a9e6ae1a1667e4ab"
 pages: 16
 ---
 
 # Initial Stellopt Runs
 
-> [打开本地 PDF](../../sources/papers/wistell_180309.pdf) · 关联主题：[[topics/optimization]]
+> [打开本地 PDF](../../sources/papers/Initial Stellopt Runs.pdf) · 关联主题：[[topics/optimization]]
 
 ## 结构化摘要
 

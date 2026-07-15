@@ -8,14 +8,14 @@ citekey: "mcgreivy-2020-finite-build-stellarator-coil-design"
 status: extracted
 tags: ["coil-design", "optimization", "engineering"]
 related: ["topics/coil-design"]
-source_file: "../../sources/papers/OPTIMIZED FINITE-BUILD STELLARATOR COILS USING.pdf"
+source_file: "../../sources/papers/Optimized Finite-Build Stellarator Coils Using Automatic Differentiation.pdf"
 sha256: "c1f3ef42acc705cb8e29d6dfbde9f0d727110967ee5dac80c6b241bb550df7b0"
 pages: 16
 ---
 
 # Finite build stellarator coil design
 
-> [打开本地 PDF](../../sources/papers/OPTIMIZED FINITE-BUILD STELLARATOR COILS USING.pdf) · 关联主题：[[topics/coil-design]]
+> [打开本地 PDF](../../sources/papers/Optimized Finite-Build Stellarator Coils Using Automatic Differentiation.pdf) · 关联主题：[[topics/coil-design]]
 
 ## 结构化摘要
 
