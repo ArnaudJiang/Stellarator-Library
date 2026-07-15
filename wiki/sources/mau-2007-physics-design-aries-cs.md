@@ -1,21 +1,21 @@
 ---
 type: source
-title: "Physics design for ARIES CS"
-title_en: "Physics design for ARIES CS"
+title: "Physics Design for ARIES-CS"
+title_en: "Physics Design for ARIES-CS"
 authors: ["T. K. MAU, e M. ZARNSTORFF, a and ARIES TEAM"]
 year: 2007
 citekey: "mau-2007-physics-design-aries-cs"
 status: extracted
 tags: ["coil-design", "optimization", "equilibrium", "transport", "quasi-symmetry", "quasi-isodynamic", "engineering"]
 related: ["topics/coil-design"]
-source_file: "../../sources/papers/Physics_design_for_ARIES_CS.pdf"
+source_file: "../../sources/papers/Physics Design for ARIES-CS.pdf"
 sha256: "9005800e164cddb0e6dfd24adf941d11e22c9ddde3c8465a8297180abd8d8a63"
 pages: 21
 ---
 
-# Physics design for ARIES CS
+# Physics Design for ARIES-CS
 
-> [打开本地 PDF](../../sources/papers/Physics_design_for_ARIES_CS.pdf) · 关联主题：[[topics/coil-design]]
+> [打开本地 PDF](../../sources/papers/Physics Design for ARIES-CS.pdf) · 关联主题：[[topics/coil-design]]
 
 ## 结构化摘要
 

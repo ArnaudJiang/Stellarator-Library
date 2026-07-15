@@ -4,5 +4,5 @@
 
 ## `cc99d39765b2d2cd7bd8232913e03365ef5ae03951828fd8632573f698273f23`
 
-- `A quasiisodynamic_stellarator_configuration_towards_a_fusion_power_plant.pdf`
+- `A quasi-isodynamic stellarator configuration towards a fusion power plant.pdf`
 - `quasiisodynamic_stellarator_configuration_towards_a_fusion_power_plant.pdf`

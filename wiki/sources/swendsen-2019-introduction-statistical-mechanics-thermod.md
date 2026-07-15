@@ -8,14 +8,14 @@ citekey: "swendsen-2019-introduction-statistical-mechanics-thermod"
 status: extracted
 tags: ["stellarator"]
 related: ["concepts/stellarator"]
-source_file: "../../sources/papers/An Introduction to Statistical Mechanics and Thermodynamics (Robert H. Swendsen) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
+source_file: "../../sources/papers/An Introduction to Statistical Mechanics and Thermodynamics.pdf"
 sha256: "6b0e81697fd1c20c8b285d92761cc8dfeddee1a0d561157d045c76ec965aee00"
 pages: 487
 ---
 
 # An Introduction to Statistical Mechanics and Thermodynamics
 
-> [打开本地 PDF](../../sources/papers/An Introduction to Statistical Mechanics and Thermodynamics (Robert H. Swendsen) (z-library.sk, 1lib.sk, z-lib.sk).pdf) · 关联主题：[[concepts/stellarator]]
+> [打开本地 PDF](../../sources/papers/An Introduction to Statistical Mechanics and Thermodynamics.pdf) · 关联主题：[[concepts/stellarator]]
 
 ## 结构化摘要
 

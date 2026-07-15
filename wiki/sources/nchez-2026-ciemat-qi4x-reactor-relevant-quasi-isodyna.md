@@ -8,14 +8,14 @@ citekey: "nchez-2026-ciemat-qi4x-reactor-relevant-quasi-isodyna"
 status: extracted
 tags: ["coil-design", "optimization", "transport", "quasi-isodynamic", "engineering", "stability"]
 related: ["topics/coil-design"]
-source_file: "../../sources/papers/CIEMAT-QI4X_a reactor-relevant quasi-isodynamic stellarator configuration compatible with an island divetor.pdf"
+source_file: "../../sources/papers/CIEMAT-QI4X a reactor-relevant quasi-isodynamic stellarator configuration compatible with an island divetor.pdf"
 sha256: "15626e3a2bdcd7fbf2bff4cbb648067ca62eb1fb74855c3560acc173ce469c60"
 pages: 16
 ---
 
 # CIEMAT-QI4X: a reactor-relevant quasi-isodynamic stellarator configuration compatible with an island divertor
 
-> [打开本地 PDF](../../sources/papers/CIEMAT-QI4X_a reactor-relevant quasi-isodynamic stellarator configuration compatible with an island divetor.pdf) · 关联主题：[[topics/coil-design]]
+> [打开本地 PDF](../../sources/papers/CIEMAT-QI4X a reactor-relevant quasi-isodynamic stellarator configuration compatible with an island divetor.pdf) · 关联主题：[[topics/coil-design]]
 
 ## 结构化摘要
 

@@ -8,14 +8,14 @@ citekey: "grulke-2026-overview-wendelstein-7-x-high-performance"
 status: extracted
 tags: ["transport", "quasi-isodynamic", "engineering"]
 related: ["topics/transport-and-confinement"]
-source_file: "../../sources/papers/Overview_of_Wendelstein_7-X_high-performance_opera.pdf"
+source_file: "../../sources/papers/Overview of Wendelstein 7-X high-performance operation.pdf"
 sha256: "cf59a8827867d09a6ad813d14e7fe88fd6784c37f912585025fa9b61759d5dde"
 pages: 17
 ---
 
 # Overview of Wendelstein 7-X high-performance operation
 
-> [打开本地 PDF](../../sources/papers/Overview_of_Wendelstein_7-X_high-performance_opera.pdf) · 关联主题：[[topics/transport-and-confinement]]
+> [打开本地 PDF](../../sources/papers/Overview of Wendelstein 7-X high-performance operation.pdf) · 关联主题：[[topics/transport-and-confinement]]
 
 ## 结构化摘要
 

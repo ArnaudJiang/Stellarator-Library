@@ -1,21 +1,21 @@
 ---
 type: source
-title: "Comparative collisionless alpha particle confinement in stellarator reactors with the XGC gyrokinetic code"
-title_en: "Comparative collisionless alpha particle confinement in stellarator reactors with the XGC gyrokinetic code"
+title: "Comparative collisionless alpha-particle confinement in stellarator configurations"
+title_en: "Comparative collisionless alpha-particle confinement in stellarator configurations"
 authors: ["RESEARCH ARTICLE | MARCH 19 2019"]
 year: 2019
-citekey: "march-2019-comparative-collisionless-alpha-particle-c"
+citekey: "march-2019-comparative-collisionless-alpha-particle-c-2"
 status: extracted
 tags: ["coil-design", "optimization", "equilibrium", "transport", "quasi-symmetry", "quasi-isodynamic", "engineering"]
 related: ["topics/coil-design"]
-source_file: "../../sources/papers/Comparative collisionless alpha particle confinement in stellarator reactors with the XGC gyrokinetic code.pdf"
-sha256: "d99dda5030b1993977d3810f3121cef66d3630f3738cb759973295ffbf942f1e"
+source_file: "../../sources/papers/Comparative collisionless alpha-particle confinement in stellarator configurations.pdf"
+sha256: "d1626d742b0402c6a801a541afed704d44d23e6725b4f6cdbbc3e4795f0afcb1"
 pages: 7
 ---
 
-# Comparative collisionless alpha particle confinement in stellarator reactors with the XGC gyrokinetic code
+# Comparative collisionless alpha-particle confinement in stellarator configurations
 
-> [打开本地 PDF](../../sources/papers/Comparative collisionless alpha particle confinement in stellarator reactors with the XGC gyrokinetic code.pdf) · 关联主题：[[topics/coil-design]]
+> [打开本地 PDF](../../sources/papers/Comparative collisionless alpha-particle confinement in stellarator configurations.pdf) · 关联主题：[[topics/coil-design]]
 
 ## 结构化摘要
 
@@ -25,7 +25,7 @@ Whole volume simulations of stellarators are necessary to address a number of im
 
 ## 原文结论
 
-- 首页所述研究目标与摘要见 [[march-2019-comparative-collisionless-alpha-particle-c]]，PDF p. 1。
+- 首页所述研究目标与摘要见 [[march-2019-comparative-collisionless-alpha-particle-c-2]]，PDF p. 1。
 - 关键定量结论、公式及图表尚需逐页视觉复核。
 
 ## 方法与数据

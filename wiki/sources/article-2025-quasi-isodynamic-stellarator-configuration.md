@@ -1,21 +1,21 @@
 ---
 type: source
-title: "A quasiisodynamic stellarator configuration towards a fusion power plant"
-title_en: "A quasiisodynamic stellarator configuration towards a fusion power plant"
+title: "A quasi-isodynamic stellarator configuration towards a fusion power plant"
+title_en: "A quasi-isodynamic stellarator configuration towards a fusion power plant"
 authors: ["This is an Open Access article, distributed under the terms of the Creative Commons"]
 year: 2025
-citekey: "article-2025-quasiisodynamic-stellarator-configuration"
+citekey: "article-2025-quasi-isodynamic-stellarator-configuration"
 status: extracted
 tags: ["coil-design", "optimization", "equilibrium", "transport", "quasi-isodynamic", "stability"]
 related: ["topics/coil-design"]
-source_file: "../../sources/papers/A quasiisodynamic_stellarator_configuration_towards_a_fusion_power_plant.pdf"
+source_file: "../../sources/papers/A quasi-isodynamic stellarator configuration towards a fusion power plant.pdf"
 sha256: "cc99d39765b2d2cd7bd8232913e03365ef5ae03951828fd8632573f698273f23"
 pages: 18
 ---
 
-# A quasiisodynamic stellarator configuration towards a fusion power plant
+# A quasi-isodynamic stellarator configuration towards a fusion power plant
 
-> [打开本地 PDF](../../sources/papers/A quasiisodynamic_stellarator_configuration_towards_a_fusion_power_plant.pdf) · 关联主题：[[topics/coil-design]]
+> [打开本地 PDF](../../sources/papers/A quasi-isodynamic stellarator configuration towards a fusion power plant.pdf) · 关联主题：[[topics/coil-design]]
 
 ## 结构化摘要
 
@@ -25,7 +25,7 @@ pages: 18
 
 ## 原文结论
 
-- 首页所述研究目标与摘要见 [[article-2025-quasiisodynamic-stellarator-configuration]]，PDF p. 1。
+- 首页所述研究目标与摘要见 [[article-2025-quasi-isodynamic-stellarator-configuration]]，PDF p. 1。
 - 关键定量结论、公式及图表尚需逐页视觉复核。
 
 ## 方法与数据

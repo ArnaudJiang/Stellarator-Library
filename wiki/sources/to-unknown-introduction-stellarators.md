@@ -1,21 +1,21 @@
 ---
 type: source
-title: "An Introduction to Stellarators - Book"
-title_en: "An Introduction to Stellarators - Book"
+title: "An Introduction to Stellarators"
+title_en: "An Introduction to Stellarators"
 authors: ["An Introduction to"]
 year: unknown
-citekey: "to-unknown-introduction-stellarators-book"
+citekey: "to-unknown-introduction-stellarators"
 status: extracted
 tags: ["optimization", "transport", "engineering"]
 related: ["topics/optimization"]
-source_file: "../../sources/papers/An Introduction to Stellarators - Book.pdf"
+source_file: "../../sources/papers/An Introduction to Stellarators.pdf"
 sha256: "7422fe8b2a82af2a374cb049997e7f6f6d6b4b4890dc66e8c22252774bac4e05"
 pages: 309
 ---
 
-# An Introduction to Stellarators - Book
+# An Introduction to Stellarators
 
-> [打开本地 PDF](../../sources/papers/An Introduction to Stellarators - Book.pdf) · 关联主题：[[topics/optimization]]
+> [打开本地 PDF](../../sources/papers/An Introduction to Stellarators.pdf) · 关联主题：[[topics/optimization]]
 
 ## 结构化摘要
 
@@ -25,7 +25,7 @@ Stellarators An Introduction to Copyright © Society for Industrial and Applied 
 
 ## 原文结论
 
-- 首页所述研究目标与摘要见 [[to-unknown-introduction-stellarators-book]]，PDF p. 1。
+- 首页所述研究目标与摘要见 [[to-unknown-introduction-stellarators]]，PDF p. 1。
 - 关键定量结论、公式及图表尚需逐页视觉复核。
 
 ## 方法与数据
